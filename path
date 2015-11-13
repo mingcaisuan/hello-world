@@ -1,0 +1,36 @@
+Enter file contents here
+
+study path
+组名 UIT Part
+
+邮箱地址 
+f0060@navercorp.com
+
+CSS之BFC详解
+http://www.html-js.com/article/1866
+
+//jq帮助
+http://www.css88.com/jqapi-1.9/
+
+图标
+http://fortawesome.github.io/Font-Awesome/cheatsheet/
+
+//jquery插件
+http://www.cnblogs.com/joey0210/p/3408349.html
+
+//百度经验jquery插件
+http://jingyan.baidu.com/article/e75aca85550216142edac63b.html
+
+渐变
+div.divColorA {FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=1,startColorStr=#e74c3c,endColorStr=#db0a5b); 
+background: -ms-linear-gradient(left, #e74c3c,  #db0a5b);
+background:-moz-linear-gradient(left,#e74c3c,#db0a5b); 
+background:-webkit-gradient(linear, 0% 0%, 100% 100%,from(#e74c3c), to(#db0a5b));
+background: -webkit-gradient(linear, 0% 0%, 100% 100%, from(#e74c3c), to(#db0a5b)); 
+background: -webkit-linear-gradient(left, #e74c3c, #db0a5b);background: -o-linear-gradient(left, #e74c3c, #db0a5b); }
+
+host文件所在路径
+C:\Windows\System32\drivers\etc
+
+编写css 简便 写法
+http://www.w3cplus.com/tools/emmet-cheat-sheet.html
